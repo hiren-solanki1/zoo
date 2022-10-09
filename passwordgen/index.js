@@ -5,6 +5,7 @@ const clipboardy = require('clipboardy')
 const log = console.log
 const createPassword = require('./main/createPassword')
 const savePassword = require('./main/savePassword')
+const hirenTopper = require('./main/deletPassword')
 
 
 
